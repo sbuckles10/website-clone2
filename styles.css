@@ -1,0 +1,81 @@
+h1 {
+  color: #CC2B39;
+  font-size: 100px
+}
+
+
+h1{
+  margin-left: 200px;
+  margin-top: 200px
+}
+
+p{
+margin-left: 200px;
+color: grey
+}
+
+button{
+  margin-left: 200px
+}
+
+h2 {
+  color: #CC2B39;
+  font-size: 100px
+}
+
+h2{
+  margin-left: 200px;
+}
+
+h3{
+  margin-left: 200px;
+  margin-top: 500px;
+  color: #1D4F6E;
+  font-size: 50px;
+  font-weight: bold
+}
+
+h4{
+  margin-left: 200px;
+  color: #1D4F6E;
+  font-size: 50px;
+  font-weight: bold
+}
+
+p2{
+  margin-left: 200px;
+  color: grey
+}
+
+h5{
+  background-color: #FBF9F4;
+  color: #CC2B39;
+  text-align: left;
+  margin-top: 300px;
+  margin-left: 400px
+}
+
+h6{
+  background-color: #FBF9F4;
+  color: #1D4F6E;
+  font-size: 50px;
+  margin-left: 400px
+}
+
+#phone{
+  margin-left: 200px
+}
+
+.h5{
+  background-color: #FBF9F4
+}
+
+#h7{
+  font-size: 50px;
+  font-weight: bold
+}
+
+.col {
+  margin-left: -165px;
+  font-size: 15px
+}
